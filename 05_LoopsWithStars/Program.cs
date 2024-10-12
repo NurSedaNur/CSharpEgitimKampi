@@ -145,8 +145,49 @@ namespace _05_LoopsWithStars
 
             #region Ters Piramit
 
+            //int n = 5;
+            //for (int i = n; i >= 1; i--)
+            //{
+            //    //boşluklar
+            //    for (int j = n - i; j > 0; j--)
+            //    {
+            //        Console.Write(" ");
+            //    }
+
+            //    //yıldızlar
+            //    for (int k = 1; k <= 2 * i - 1; k++)
+            //    {
+            //        Console.Write("*");
+            //    }
+            //    Console.WriteLine();
+            //}
+
+
+            #endregion
+
+            #region Tam Piramit Ek Deneme
+
             int n = 5;
-            for (int i = n; i >= 1; i--)
+            
+            //Üst kısım
+            for (int i = 1; i <= n; i++)
+            {
+                //boşluklar
+                for (int j = n - i; j > 0; j--)
+                {
+                    Console.Write(" ");
+                }
+
+                //yıldızlar
+                for (int k = 1; k <= 2 * i - 1; k++)
+                {
+                    Console.Write("*");
+                }
+                Console.WriteLine();
+            }
+
+            //Alt kısım
+            for (int i = n-1; i >= 1; i--)
             {
                 //boşluklar
                 for (int j = n - i; j > 0; j--)
