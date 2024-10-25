@@ -36,6 +36,7 @@ Bir veritabanı oluşturarak projeye SQL bağlantısı ekledim ve temel veri iş
 Bu projelerle birlikte C# dilinin temel kavramlarını uygulamalı olarak öğrenme fırsatı buldum. İlerleyen projelerde bilgimi daha da derinleştirmeyi hedefliyorum.
 
 ---
+---
 
 # 🚀 C# Training Camp Projects
 
