@@ -34,3 +34,42 @@ Bir veritabanı oluşturarak projeye SQL bağlantısı ekledim ve temel veri iş
 ---
 
 Bu projelerle birlikte C# dilinin temel kavramlarını uygulamalı olarak öğrenme fırsatı buldum. İlerleyen projelerde bilgimi daha da derinleştirmeyi hedefliyorum.
+
+---
+
+# 🚀 C# Training Camp Projects
+
+This repository contains the projects I completed during the C# Training Camp under the guidance of Murat Yücedağ. Each project helped me deepen my understanding of programming concepts and develop my practical skills. Below are the technical details of the projects:
+
+---
+
+### 📘 Project 1: Hello World!
+In this project, I learned to print messages to the console using the `Console.WriteLine()` command, taking my first steps into the C# language.
+
+### 🔢 Project 2: Variables
+I practiced with different data types like `int`, `string`, and `double`, gaining a better understanding of the basic data types in C#.
+
+### 🔍 Project 3: Decision Structures
+This project involved practicing with `if-else` statements, modulo operations, and the `switch-case` structure. I also developed a calculator and a restaurant menu application.
+
+### ♻️ Project 4: Loops
+In this project, I practiced using `for` and `while` loops and gained foundational knowledge of operations with loops.
+
+### 🌟 Project 5: Patterns with Stars and Spaces
+I created patterns using stars and spaces with loops. This project helped me learn to create visual patterns using loop logic.
+
+### 🛠️ Project 6: Arrays
+This project involved working with arrays to practice data storage and retrieval.
+
+### 🎓 Project 7: Foreach Loop
+Using the `foreach` loop, I took students' exam scores, calculated their averages, and determined their pass/fail status.
+
+### 📌 Project 8: Methods
+In this project, I learned about the structure of C# methods, making repetitive parts of my code more functional.
+
+### 💽 Project 9: Database Integration
+I set up a database and connected it to the project with SQL, performing basic data operations.
+
+---
+
+Through these projects, I had the opportunity to learn the fundamental concepts of the C# language practically. I aim to deepen my knowledge with future projects.
