@@ -115,6 +115,7 @@ namespace _10_DatabaseCrud
 
             connection.Close();
 
+
             Console.WriteLine("Güncelleme Başarılı.");
             #endregion
 
