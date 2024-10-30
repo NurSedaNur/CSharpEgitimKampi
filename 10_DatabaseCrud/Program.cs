@@ -111,7 +111,7 @@ namespace _10_DatabaseCrud
             command.Parameters.AddWithValue("@p2", productPrice);
             command.Parameters.AddWithValue("@p3", productId);
 
-            command.ExecuteNonQuery();
+            command.ExecuteNonQuery(); 
 
             connection.Close();
 
